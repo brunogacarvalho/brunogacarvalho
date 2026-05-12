@@ -1,7 +1,7 @@
 <h1>Olá, sou o Bruno 👋</h1>
 
 <p>
-  Aqui você encontra meus projetos, estudos e experimentos.
+  Aqui você encontra meus projetos e estudos.
 </p>
 
 <h3>🌐 Onde me encontrar:</h3>
