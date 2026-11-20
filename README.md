@@ -61,7 +61,7 @@ Atualmente aprofundando meus conhecimentos em serviços AWS e me preparando para
 
 ## 🎯 Objetivo profissional
 
-Busco uma oportunidade na área de Tecnologia da Informação, especialmente em **Suporte N1, Service Desk, NOC ou funções correlatas e também funções relacionadas à infraestrutura e computação em nuvem**.
+Busco uma oportunidade na área de Tecnologia da Informação, especialmente em **Suporte N1, Service Desk, NOC ou funções correlatas e funções relacionadas à infraestrutura e computação em nuvem**.
 
 Meu objetivo é aplicar meus conhecimentos, adquirir experiência prática e continuar evoluindo profissionalmente na área de tecnologia.
 
